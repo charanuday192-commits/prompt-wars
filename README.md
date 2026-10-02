@@ -1,1 +1,1 @@
-# prompt-wars
+# AI-Prompt-challenge
